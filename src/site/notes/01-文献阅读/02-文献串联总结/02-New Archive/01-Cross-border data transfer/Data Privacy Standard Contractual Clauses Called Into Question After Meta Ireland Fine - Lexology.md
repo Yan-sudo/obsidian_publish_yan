@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01/02/02-new-archive/01-cross-border-data-transfer/data-privacy-standard-contractual-clauses-called-into-question-after-meta-ireland-fine-lexology/","title":"Data Privacy Standard Contractual Clauses Called Into Question After Meta Ireland Fine - Lexology"}
+{"dg-publish":true,"permalink":"/01/02/02-new-archive/01-cross-border-data-transfer/data-privacy-standard-contractual-clauses-called-into-question-after-meta-ireland-fine-lexology/","title":"Data Privacy Standard Contractual Clauses Called Into Question After Meta Ireland Fine - Lexology","tags":["gardenEntry"]}
 ---
 
 **Highlights**
